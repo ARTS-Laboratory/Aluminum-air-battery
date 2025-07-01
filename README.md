@@ -1,2 +1,2 @@
-# Aluminum-air-battery
-Design for an Aluminum–air battery
+# Aluminum-air Battery
+Design for an aluminum–air battery
